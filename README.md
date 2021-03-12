@@ -2,6 +2,7 @@
 
 ## General purpose
 To optimize and follow-up CT protocol acquisition settings for GE machines.
+New GE Revolution CT scanners (with new GUI) are not currently supported.
 
 
 
