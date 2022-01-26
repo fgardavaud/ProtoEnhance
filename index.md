@@ -15,11 +15,9 @@ You have to create your own system state to operate ProtoEnhance on your own CT 
 This code has been developed in Java language on Windows Seven platform (more precisely in Eclipse IDE).
 **But**, all the functions are normally other OS platform proof. 
 
-The code has been exhaustively commented, as you can understand the function of every code block. 
-
 ## Software configuration
 
-It extremely recommended to follow the software procedure included in this repo. First you have to decompress the CT images database in DICOM format to operate the software (see the section below).
+It extremely recommended to follow the software procedure included in the archive. First you have to decompress the CT images database in DICOM format to operate the software (see the section below).
 
 ## CT images sample
 
