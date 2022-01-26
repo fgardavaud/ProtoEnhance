@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Hello and welcome,
 
-You can use the [editor on GitHub](https://github.com/fgardavaud/ProtoEnhance/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## General purpose
+To optimize and follow-up CT protocol acquisition settings for GE machines.
+New GE Revolution CT scanners (with new GUI) are not currently supported.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## CT system requirement
+This code has been tested on VCT, 750HD and RevoGSI systems. But, I expect all GE CT units with protocol file system with VersionName = "3.5.1" will work with ProtoEnhance.
+A CT system state save has been included in this repo to have a "user" protocol database for testing purpose. service_mod_data.7z file have to be decompressed (see CT images sample section to have clue for decompress tool).
+You have to create your own system state to operate ProtoEnhance on your own CT protocols.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## OS platform
 
-```markdown
-Syntax highlighted code block
+This code has been developed in Java language on Windows Seven platform (more precisely in Eclipse IDE).
+**But**, all the functions are normally other OS platform proof. 
 
-# Header 1
-## Header 2
-### Header 3
+The code has been exhaustively commented, as you can understand the function of every code block. 
 
-- Bulleted
-- List
+## Software configuration
 
-1. Numbered
-2. List
+It extremely recommended to follow the software procedure included in this repo. First you have to decompress the CT images database in DICOM format to operate the software (see the section below).
 
-**Bold** and _Italic_ and `Code` text
+## CT images sample
 
-[Link](url) and ![Image](src)
-```
+A compressed CT images sample folder for brain localization have been included in this repo for testing purpose.  To do so, you have to decompress the 7-zip archive with additional software such as [7-zip](https://www.7-zip.org) on Windows or [Keka](https://www.keka.io/en/) on macOS.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+The whole CT images database is available on the [French society of medical physics software database](http://www.sfpm.asso.fr/download/index.php?act=download&id=208)
 
-### Jekyll Themes
+## Software language
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fgardavaud/ProtoEnhance/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**This software is only available in French for the moment**. 
 
-### Support or Contact
+-----
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Have a nice utilization.
+
+## Authors
+
+François Gardavaud, Hugo Pasquier for software designing and developpement and Pr Alain Luciani, Pr Alain Rahmouni for image quality medical validation
+
