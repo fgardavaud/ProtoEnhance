@@ -1,4 +1,4 @@
-# Hello and welcome,
+# Hello and welcome
 
 ## General purpose
 To optimize and follow-up CT protocol acquisition settings for GE machines.
