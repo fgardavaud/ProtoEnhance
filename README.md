@@ -1,5 +1,10 @@
 # Hello and welcome,
 
+[![Last-changedate](https://img.shields.io/badge/last%20change-`r gsub('-', '--', Sys.Date())`-brightgreen.svg)](https://github.com/fgardavaud/ProtoEnhance/commits/master) 
+[![Licence](https://img.shields.io/github/license/mashape/apistatus.svg)](http://choosealicense.com/licenses/gpl-3.0/)
+ [![ORCiD](https://img.shields.io/badge/ORCiD-0000-0001-9767-3241-green.svg)](http://orcid.org/0000-0001-9767-3241) 
+
+
 ## General purpose
 To optimize and follow-up CT protocol acquisition settings for GE machines.
 New GE Revolution CT scanners (with new GUI) are not currently supported.
