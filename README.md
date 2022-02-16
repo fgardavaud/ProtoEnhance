@@ -1,4 +1,4 @@
-# Hello and welcome,
+# ProtoEnhance
 
 [![Licence](https://img.shields.io/badge/license-GNU__GPLv3-yellow)](http://choosealicense.com/licenses/gpl-3.0/)
 [![ORCiD](https://img.shields.io/badge/ORCID-0000--0001--9767--3241-green)](http://orcid.org/0000-0001-9767-3241) 
