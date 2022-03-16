@@ -1,6 +1,7 @@
 # ProtoEnhance
 [![Licence](https://img.shields.io/badge/license-GNU__GPLv3-yellow)](http://choosealicense.com/licenses/gpl-3.0/)
 [![ORCiD](https://img.shields.io/badge/ORCID-0000--0001--9767--3241-green)](http://orcid.org/0000-0001-9767-3241) 
+[![Download](https://img.shields.io/badge/ProtoEnhance-Download-red)](https://github.com/fgardavaud/ProtoEnhance/releases/download/v1.0/ProtoEnhance.zip)
 
 ## General purpose
 To optimize and follow-up CT protocol acquisition settings for GE machines.
@@ -25,7 +26,7 @@ It extremely recommended to follow the software procedure included in the archiv
 
 A compressed CT images sample folder for brain localization have been included in this repo for testing purpose.  To do so, you have to decompress the 7-zip archive with additional software such as [7-zip](https://www.7-zip.org) on Windows or [Keka](https://www.keka.io/en/) on macOS.
 
-The whole CT images database is available on the [French society of medical physics software database](http://www.sfpm.asso.fr/download/index.php?act=download&id=208)
+The whole CT images database is available at this [link](https://drive.google.com/file/d/1gHHRTv2LkE8c3-3aNpRTc2L9JnsLl4Ud/view?usp=sharing)
 
 ## Software language
 
