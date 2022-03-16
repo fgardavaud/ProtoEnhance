@@ -1,4 +1,4 @@
 theme: jekyll-theme-architect
-show_downloads: "true"
+show_downloads: "false"
 title: ProtoEnhance
 description: A software to tailor and follow-up CT protocols for GE modalities
