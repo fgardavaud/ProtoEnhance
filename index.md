@@ -2,6 +2,7 @@
 [![Licence](https://img.shields.io/badge/license-GNU__GPLv3-yellow)](http://choosealicense.com/licenses/gpl-3.0/)
 [![ORCiD](https://img.shields.io/badge/ORCID-0000--0001--9767--3241-green)](http://orcid.org/0000-0001-9767-3241) 
 [![Download](https://img.shields.io/badge/ProtoEnhance-Download-red)](https://github.com/fgardavaud/ProtoEnhance/releases/download/v1.0/ProtoEnhance.zip)
+[![Demo](https://img.shields.io/badge/Demo-Access-red)](http://www.canalc2.tv/video/12757)
 
 ## General purpose
 To optimize and follow-up CT protocol acquisition settings for GE machines.
