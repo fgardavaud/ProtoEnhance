@@ -39,7 +39,7 @@ The whole CT images database is available at this [link](https://drive.google.co
 
 ## protocols database sample
 
-A protocol database is avaible in this repo called `service_mod_data.7z`. To activate it, you just have to decompress it.
+A protocol database is available in this repo called `service_mod_data.7z`. To activate it, you just have to decompress it.
 
 -----
 
@@ -47,4 +47,4 @@ Have a nice utilization and contribution.
 
 ## Authors
 
-François Gardavaud, Hugo Pasquier for software designing and developpement and Pr Alain Luciani, Pr Alain Rahmouni for image quality medical validation
+François Gardavaud, Hugo Pasquier for software designing and development and Pr Alain Luciani, Pr Alain Rahmouni for image quality medical validation
