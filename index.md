@@ -4,6 +4,9 @@
 [![Download](https://img.shields.io/badge/ProtoEnhance-Download-red)](https://github.com/fgardavaud/ProtoEnhance/releases/download/v1.0/ProtoEnhance.zip)
 [![Demo](https://img.shields.io/badge/Demo-Access-red)](http://www.canalc2.tv/video/12757)
 
+
+![Screenshot](https://github.com/fgardavaud/ProtoEnhance/blob/c4bc7dab90e23cefc546ed506202f03ba5865755/screenshot.png)
+
 ## General purpose
 To optimize and follow-up CT protocol acquisition settings for GE machines.
 New GE Revolution CT scanners (with new GUI) are not currently supported.
