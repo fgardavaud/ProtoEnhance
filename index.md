@@ -29,6 +29,10 @@ A compressed CT images sample folder for brain localization have been included i
 
 The whole CT images database is available at this [link](https://drive.google.com/file/d/1gHHRTv2LkE8c3-3aNpRTc2L9JnsLl4Ud/view?usp=sharing)
 
+## protocols database sample
+
+A protocol database is avaible in this repo called `service_mod_data.7z`. To activate it, you just have to decompress it.
+
 ## Software language
 
 **This software is only available in French for the moment**. 
