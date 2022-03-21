@@ -5,7 +5,7 @@
 [![Demo](https://img.shields.io/badge/Demo-Access-red)](http://www.canalc2.tv/video/12757)
 
 
-![](screenshot.png)
+[![](screenshot.png)](https://github.com/fgardavaud/ProtoEnhance/releases/download/v1.0/ProtoEnhance.zip)
 
 ## General purpose
 To optimize and follow-up CT protocol acquisition settings for GE machines.
