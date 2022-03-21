@@ -33,7 +33,7 @@ It extremely recommended to follow the software procedure included in this repo.
 
 ## CT images sample
 
-A compressed CT images sample folder for brain localization have been included in this repo for testing purpose.  To do so, you have to decompress the 7-zip archive with additional software such as [7-zip](https://www.7-zip.org) on Windows or [Keka](https://www.keka.io/en/) on macOS.
+A compressed CT images sample folder for brain localization have been included in this repo for testing purpose. It is placed in `Images` folder. You have to decompress it. To do so, you have to decompress the 7-zip archive with additional software such as [7-zip](https://www.7-zip.org) on Windows or [Keka](https://www.keka.io/en/) on macOS.
 
 The whole CT images database is available at this [link](https://drive.google.com/file/d/1gHHRTv2LkE8c3-3aNpRTc2L9JnsLl4Ud/view?usp=sharing)
 
