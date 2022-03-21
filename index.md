@@ -5,7 +5,7 @@
 [![Demo](https://img.shields.io/badge/Demo-Access-red)](http://www.canalc2.tv/video/12757)
 
 
-![Screenshot](https://github.com/fgardavaud/ProtoEnhance/blob/c4bc7dab90e23cefc546ed506202f03ba5865755/screenshot.png)
+![Screenshot](https://github.com/fgardavaud/ProtoEnhance/screenshot.png)
 
 ## General purpose
 To optimize and follow-up CT protocol acquisition settings for GE machines.
@@ -13,8 +13,8 @@ New GE Revolution CT scanners (with new GUI) are not currently supported.
 
 
 ## CT system requirement
-This code has been tested on VCT, 750HD and RevoGSI systems. But, I expect all GE CT units with protocol file system with VersionName = "3.5.1" will work with ProtoEnhance.
-A CT system state save has been included in this repo to have a "user" protocol database for testing purpose. service_mod_data.7z file have to be decompressed (see CT images sample section to have clue for decompress tool).
+This code has been tested on VCT, 750HD and RevoGSI systems. But, I expect all GE CT units with protocol file system with `VersionName = "3.5.1"` will work with ProtoEnhance.
+A CT system state save has been included in this repo to have a "user" protocol database for testing purpose. `service_mod_data.7z` file have to be decompressed (see CT images sample section to have clue for decompress tool).
 You have to create your own system state to operate ProtoEnhance on your own CT protocols.
 
 ## OS platform
@@ -34,7 +34,7 @@ The whole CT images database is available at this [link](https://drive.google.co
 
 ## Protocols database sample
 
-A protocol database is avaible in this repo called `service_mod_data.7z`. To activate it, you just have to decompress it.
+As already describe in CT system requirement section, a protocol database is available in this repo called `service_mod_data.7z`. To activate it, you just have to decompress it.
 
 ## Software language
 
@@ -46,5 +46,5 @@ Have a nice utilization.
 
 ## Authors
 
-François Gardavaud, Hugo Pasquier for software designing and developpement and Pr Alain Luciani, Pr Alain Rahmouni for image quality medical validation
+François Gardavaud, Hugo Pasquier for software designing and development and Pr Alain Luciani, Pr Alain Rahmouni for image quality medical validation
 
