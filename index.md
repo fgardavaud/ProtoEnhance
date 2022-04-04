@@ -46,5 +46,5 @@ Have a nice utilization.
 
 ## Authors
 
-François Gardavaud, Hugo Pasquier for software designing and development and Pr Alain Luciani, Pr Alain Rahmouni for image quality medical validation
+[François Gardavaud](https://fgardavaud.github.io/), Hugo Pasquier for software designing and development and Pr Alain Luciani, Pr Alain Rahmouni for image quality medical validation
 
