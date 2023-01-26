@@ -48,3 +48,5 @@ Have a nice utilization.
 
 [François Gardavaud](https://fgardavaud.github.io/), Hugo Pasquier for software designing and development and Pr Alain Luciani, Pr Alain Rahmouni for image quality medical validation
 
+## [Return to homepage](https://fgardavaud.github.io/)
+
